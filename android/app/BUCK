@@ -45,12 +45,28 @@ android_library(
 
 android_build_config(
     name = "build_config",
+<<<<<<< HEAD
     package = "com.gapp",
+=======
+<<<<<<< HEAD
+    package = "com.gymsapp",
+=======
+    package = "com.gapps",
+>>>>>>> 3a54587179c4334dc3153edc8951c459291a44f2
+>>>>>>> dc92edd78a3d019c29a0f3cc1d65867bebdaf287
 )
 
 android_resource(
     name = "res",
+<<<<<<< HEAD
     package = "com.gapp",
+=======
+<<<<<<< HEAD
+    package = "com.gymsapp",
+=======
+    package = "com.gapps",
+>>>>>>> 3a54587179c4334dc3153edc8951c459291a44f2
+>>>>>>> dc92edd78a3d019c29a0f3cc1d65867bebdaf287
     res = "src/main/res",
 )
 
