@@ -98,7 +98,11 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.gymsapp"
+=======
+        applicationId "com.gapps"
+>>>>>>> 3a54587179c4334dc3153edc8951c459291a44f2
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

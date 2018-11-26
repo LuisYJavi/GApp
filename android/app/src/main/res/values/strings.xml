@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">GymsApp</string>
+=======
+    <string name="app_name">GApps</string>
+>>>>>>> 3a54587179c4334dc3153edc8951c459291a44f2
 </resources>
