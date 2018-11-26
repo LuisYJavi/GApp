@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 rootProject.name = 'GApp'
+=======
+rootProject.name = 'GApps'
+>>>>>>> ef9d3618716c18cb06ba51961722cce94924eefb
 
 include ':app'
