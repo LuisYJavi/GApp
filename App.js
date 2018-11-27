@@ -1,4 +1,3 @@
-
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View} from 'react-native';
 import HeaderIconExample from './src/components/Header';
@@ -6,7 +5,7 @@ import HeaderIconExample from './src/components/Header';
 
 type Props = {};
 
- class App extends Component<Props> {
+ class App extends Component <Props> {
   
   state = {temporal : "verdadero"};
   
@@ -16,9 +15,8 @@ type Props = {};
     return (
       
       <View>
-      <HeaderIconExample></HeaderIconExample>
-      
-      <Text>{this.state.temporal}</Text>
+        <HeaderIconExample></HeaderIconExample>
+        <Text>{this.state.temporal}</Text>
         
       </View>
     );
