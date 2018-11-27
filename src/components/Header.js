@@ -3,6 +3,8 @@ import { Container, Header, Left, Body, Right, Button, Icon, Title } from 'nativ
 
 
 export default class HeaderIconExample extends Component {
+  componentDidMount();
+  
   render() {
     return (
       <Container>
